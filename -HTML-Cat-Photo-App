@@ -1,0 +1,34 @@
+Take Aways:
+  Elements
+    (opening and closing)
+    -h1
+    -main
+    -section
+    -p
+    -a
+    -ul
+    -li
+    -figure
+    -figcaption
+    -ol
+    -em
+    -strong
+    -button
+    -label
+    -fieldset
+  Attributes
+    -src
+    -target
+    -alt
+    -href
+    -action
+    -type
+    -name
+    -placeholder
+    -required
+  Void Elements
+    -img
+    -input
+  Block-level Elements vs Inline Elements 
+
+  
