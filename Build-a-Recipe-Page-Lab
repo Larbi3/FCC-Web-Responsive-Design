@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+  <html lang="en">
+  <head>
+    <title>Bacon Egg and Cheese Bagel Recipe</title>
+    <meta charset="UTF-8"/>
+  </head>
+  <body>
+    <main>
+      <h1>Bacon Egg and Cheese Bagel Recipe</h1>
+      <p> Welcome to the straightfoward guide on how to make a Bacon Egg and Cheese Bagel! For memorable savory breakfast sandwich, follow this simple recipe everyone will love! </p>
+        <a href="https://myeverydaytable.com/how-to-make-a-bacon-egg-and-cheese-bagel-breakfast-sandwich/"><img src=https://myeverydaytable.com/wp-content/uploads/bacon-egg-cheese-bagel.png alt="Bacon Egg and Cheese Bagel."></a>
+      <section>
+        <h2>Ingredients</h2>
+         <ul>
+          <li>Plain Bagel</li>
+          <li>Butter</li>
+          <li>Eggs</li>
+          <li>Salt</li>
+          <li>Bacon</li>
+          <li>Cheese</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Instructions</h2>
+        <ol>
+          <li>Heat 1/2 a tablespoon of butter in a pan</li>
+          <li>Cook your eggs for about 3 minutes each side. Season with salt.</li>
+          <li>Put cheese on top of eggs and move to the side.</li>
+          <li>Cook your bacon.</li>
+          <li>Toast your bagel.</li>
+          <li>Assemble your sandwich.</li>
+        </ol>
+      </section>
+  </body>
+    
+</html>
